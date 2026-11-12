@@ -3,7 +3,7 @@
   "use strict";
 
   // Contact form destination. Replace with a form endpoint (e.g. Formspree) to post directly.
-  var CONTACT_EMAIL = "hello@clevertraction.com";
+  var CONTACT_EMAIL = "nicki.vt@gmail.com";
   var FORM_ENDPOINT = ""; // e.g. "https://formspree.io/f/xxxxxxx"
 
   var header = document.querySelector(".site-header");

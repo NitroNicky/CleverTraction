@@ -44,11 +44,11 @@ Import the repo, leave the build command empty and set the publish directory to 
 
 ## Contact form
 
-By default the form opens the visitor's email client addressed to `hello@clevertraction.com`.
+By default the form opens the visitor's email client addressed to `nicki.vt@gmail.com`.
 To receive submissions directly instead, create a form endpoint (e.g. [Formspree](https://formspree.io), Basin, or Netlify Forms) and set it at the top of `assets/js/main.js`:
 
 ```js
-var CONTACT_EMAIL = "hello@clevertraction.com";
+var CONTACT_EMAIL = "nicki.vt@gmail.com";
 var FORM_ENDPOINT = "https://formspree.io/f/your-id";
 ```
 
@@ -63,7 +63,7 @@ var FORM_ENDPOINT = "https://formspree.io/f/your-id";
 
 ## Before launch checklist
 
-- [ ] Confirm `hello@clevertraction.com` exists (or update it in `index.html` and `main.js`)
+- [ ] Contact email is `nicki.vt@gmail.com` — swap for a branded address later in `index.html` and `main.js` if you set one up
 - [ ] Connect a form endpoint
 - [ ] Add analytics
 - [ ] Add OG image
